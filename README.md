@@ -1,5 +1,7 @@
 # cupp0999
 
+note- ( pass create time name tipe password0 )
+
 pass(4)digit
 
 pass0100
